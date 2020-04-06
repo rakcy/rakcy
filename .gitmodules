@@ -1,0 +1,3 @@
+[submodule "code-scanner-demo"]
+	path = code-scanner-demo
+	url = ssh://git@github.com/rakcy/code-scanner-demo
